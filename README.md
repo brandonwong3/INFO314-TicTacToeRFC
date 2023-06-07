@@ -1,6 +1,8 @@
 # TicTacToeRFC
 An [RFC](RFC.md) for a protocol for playing a game of TicTacToe over the network
 
+# Link to a video of a trial run <a href="https://drive.google.com/file/d/1SzUpwOOqb8lG4nYhRphPOemMJTSxS3iF/view?usp=sharing">Demo of our TTTP</a>
+
 ## Goals
 
 Your job is to implement "RFC INFO314", also known as TTTP, or the "Tic Tac Toe Protocol". This protocol is defined [here](RFC.md), and will serve as the sole description of the protocol--neither your instructor nor the TA will answer any questions about the protocol. *It is up to you to implement the protocol as defined in the specification, and where any incompatibilities arise, work those out with other groups on your own.*
